@@ -74,3 +74,7 @@ module "dynamo" {
   source = "./modules/dynamo"
   
 }
+
+module {
+  
+}
