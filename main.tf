@@ -75,6 +75,3 @@ module "dynamo" {
   
 }
 
-module {
-  
-}
